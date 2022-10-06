@@ -14,11 +14,12 @@ We believe this technology radar will allow us to better discuss on what technol
 1. Clone this repository
 1. Create a markdown document or copy CSV file under `radars` directory
 1. Run `scripts/parse.py` file to generate `json` file
+
     ```
     source venv/bin/activate
     python scripts/parse.py -f radars/radar_file.md -t md
     ```
-1. Commit changes
+2. Commit changes
 
 ## List of radars so far
 <!-- list below is auto generated. do not modify anything between list-start and list-end -->
