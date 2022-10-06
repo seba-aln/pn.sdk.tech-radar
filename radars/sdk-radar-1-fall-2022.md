@@ -12,7 +12,7 @@
 |Wasm|asess|platform|TRUE||
 |Cloudflare API|asess|platform|TRUE||
 |TravisCI|hold|platform|TRUE||
-|JavaScript|hold|languages and frameworks|TRUE||
+|JavaScript|hold|languages and frameworks|TRUE| We don't want to invest any more time into the JS SDK and focus on TypeScript|
 |Deno|trial|languages and frameworks|TRUE||
 |Rust SDK|asess|languages and frameworks|TRUE||
 |Kotlin MultiMobile|asess|languages and frameworks|TRUE||
